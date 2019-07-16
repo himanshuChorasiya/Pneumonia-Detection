@@ -1,2 +1,2 @@
-# Pneumonia-Detection
+# Pneumonia-Detection using Convolution neural Network
 The aim of this project is to develop an Model capable of predicting pneumonia using chest X-ray images with different size of input images.We have designed a algorithm consisting of Window to View port transformation followed by Convolution Neural Network.We have tested our model on different combinations of hidden layer networks and on different size of input images.We made a comparison based on how much our model is working differently on changing the size of input images and also by applying Window to View port transformation.The goal of our project is to classify each X-ray image into Normal and defected.
